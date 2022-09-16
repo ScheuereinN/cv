@@ -1,0 +1,54 @@
+/******************************TAG SELECTORS********************************/
+body {
+  background-color: #003865;
+}
+
+h1 {
+  color: #EF5B0C;
+}
+
+h2 {
+  color: #D4F6CC;
+}
+
+h3 {
+  color: #3CCF4E;
+}
+
+img:hover {
+  background-color: gold;
+}
+hr {
+ border-style: dotted none none none;
+ border-color: grey;
+ border-width: 5px;
+ width: 10%;
+}
+
+vl {
+  border-left: 6px solid black;
+  background-color: #3CCF4E;
+  height: 5px;
+  left: 50%;
+  top: 0;
+}
+
+/****************************CLASS SELECTORS*******************************/
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/*****************************ID SELECTORS********************************/
+
+#heading {
+  color: blue;
+}
