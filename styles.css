@@ -24,6 +24,15 @@ hr {
  border-width: 5px;
  width: 10%;
 }
+
+vl {
+  border-left: 6px solid black;
+  background-color: #3CCF4E;
+  height: 5px;
+  left: 50%;
+  top: 0;
+}
+
 /****************************CLASS SELECTORS*******************************/
 
 .bacon {
